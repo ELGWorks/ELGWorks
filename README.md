@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emmanuel</h1>
-<h3 align="center">I do programming (sometimes)</h3>
+<h3 align="center">I do programming</h3>
 
 - 🌱 I’m currently learning **Arduino and Circuit Theory**
 <h3 align="left">Connect with me:</h3>
