@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Arduino and Circuit Theory**
 <h3 align="left">Connect with me:</h3>
 
-<a href="https://emmanuelgonzales.netlify.app/">My Portfolio</a>
+<a href="https://emmanuelgonzales.netlify.app/" target="_blank">My Portfolio</a>
 <br/>
 <a href="mailto:emmanuellouisegonzales@gmail.com">Email</a>
 <br/>
