@@ -5,6 +5,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <a href="https://emmanuelgonzales.netlify.app/">My Portfolio</a>
+<br/>
 <a href="mailto:emmanuellouisegonzales@gmail.com">Email</a>
 <br/>
 <a href="https://discord.com/users/524045261689978882" target="_blank">Discord</a>
